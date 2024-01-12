@@ -3,6 +3,14 @@
 Pengembangan aplikasi seluler untuk mengatasi permasalahan limbah sayuran dari Desa Bandungrejo melalui pemberdayaan masyarakat untuk mengolah sampah sayuran menjadi pupuk berkualitas yang dapat digunakan petani dan diperjualbelikan. 
 
 
+Dibuat oleh tim Giggle untuk Hackfest 2024
+Hacker -> Muhamad Azis
+Hacker -> Muhammad Adrian Rizky Wijaya
+Hipster -> Ahmad Gunawan Triyanto
+Hustler -> Salima Fadhilatus Sholihah
+
+
+
 
 ## Getting Started
 
