@@ -1,8 +1,12 @@
 # Green Thumb
 
-A new Flutter project.
+Pengembangan aplikasi seluler untuk mengatasi permasalahan limbah sayuran dari Desa Bandungrejo melalui pemberdayaan masyarakat untuk mengolah sampah sayuran menjadi pupuk berkualitas yang dapat digunakan petani dan diperjualbelikan. 
+
+
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
