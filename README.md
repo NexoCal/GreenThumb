@@ -17,9 +17,41 @@ Overview Products
 ![Green Thumb Products Overview](assets/readMe/overviewProduct.png)
 
 Mobile Application
+![Green Thumb Mobile Application Overview](assets/readMe/mobileApplication.png)
 
 Fertilizer Products
-![Green Thumb Products Overview](assets/readMe/overviewFertilizzer.png)
+![Green Thumb Fertilizer Overview](assets/readMe/overviewFertilizzer.png)
+
+## Application Usage Flow
+The following are the actors involved in the use of the Green Thumb mobile application, namely farmers, managers of temporary landfills (TPST3R), communities, and the Center for Plant Variety Protection and agricultural licensing (PVTPP). With the flow of its application pengguaan;
+![Green Thumb Fertilizer Overview](assets/readMe/UIBgGrid.png)
+1. Registration and Login:
+Farmers, communities, and PVTPP register accounts on the Green Thumb application.
+After registration, users login to the app using their account information.
+2. Removal of vegetable waste by farmers:
+Farmers access the vegetable waste upload feature on the app.
+Farmers upload information and photos of vegetable waste that they want to submit.
+3. Eligibility Test by Tpst3r manager:
+TPST3R managers receive vegetable waste upload notifications from farmers.
+Tpst3r managers conduct feasibility tests on vegetable waste for fertilizer production.
+The results of the feasibility test are informed to farmers.
+4. Marketing license from PVTPP:
+PVTPP gives marketing permission to TPST3R for fertilizers that have passed the feasibility test.
+5. Points redemption and marketing to farmers:
+TPST3R provides fertilizer that has been produced free of charge to farmers.
+The points accumulated from each transaction are used to reduce the price or get other benefits.
+6. Marketing fertilizer to the community:
+TPST3R markets organic fertilizer to the community through a platform on Green Thumb.
+Fertilizer prices are determined and visible on the application.
+7. Purchase of fertilizer by the community:
+People access the fertilizer purchase feature on the Green Thumb application.
+People choose the type and amount of fertilizer they want to buy.
+People make payments through the methods that have been provided.
+8. Confirmation and delivery:
+After payment, TPST3R received confirmation of fertilizer purchase from the community.
+TPST3R regulates the delivery of fertilizers to the community on order.
+9. Finishes and feedback:
+Transactions are completed, and the public can provide feedback or rating of products and services through the Green Thumb application.
 
 ## Team and Role
 Created by GIGGLE team for Hackfest 2024
